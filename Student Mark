@@ -1,0 +1,15 @@
+name = "Kanagamuvin"
+
+mark1 = 80
+mark2 = 75
+mark3 = 90
+
+total = mark1 + mark2 + mark3
+average = total / 3
+
+print("Student Name:", name)
+print("Mark 1:", mark1)
+print("Mark 2:", mark2)
+print("Mark 3:", mark3)
+print("Total:", total)
+print("Average:", average)
